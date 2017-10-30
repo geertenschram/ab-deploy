@@ -1,5 +1,4 @@
  <?php 
- echo "I am VERSION ONE <br><br>";
- echo "My Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
- geerten
+ echo "Dit is versie één<br><br>";
+ echo "Het IP adres van deze POD is : ".$_SERVER['SERVER_ADDR'] ;
  ?>
